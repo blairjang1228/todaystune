@@ -1,0 +1,1 @@
+.card-back{position:absolute}.card-back:before{content:attr(data-album);position:absolute;left:200px;top:20px;color:var(--pink);font-family:'Special Elite';font-size:.9rem;letter-spacing:.08em;z-index:2}.card-back img{filter:saturate(.7)}
